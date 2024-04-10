@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Joe</h1>
+<h1 align="center">Hello 🤝, I'm Joe</h1>
 <h3 align="center">A two-time postgraduate software engineer specialising in web development, able to build tailored applications, with a solid foundation in OOP & passionate to problem solve, learn new skills and collaborate as part of a team in efforts to deliver responsive, functional applications. Possessing excellent interpersonal skills and a meticulous nature to ensure all work undertaken exceeds customer expectations.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkmagnussen" alt="jkmagnussen" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/joekmagnussen" target="blank"><img src="https://img.shields.io/twitter/follow/joekmagnussen?logo=twitter&style=for-the-badge" alt="joekmagnussen" /></a> </p>
 
-- 📚 I’m a **Software Engineering graduate from the University of Liverpool**
+- 📚 **Software Engineering graduate from the University of Liverpool**
 
 - 💻 code_cademy/PRO career paths [Full-Stack Engineer & Computer Science](https://github.com/jkmagnussen/code_cademy)
 
